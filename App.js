@@ -42,8 +42,6 @@ export default function App() {
               </TouchableOpacity>
             );
           })}
-          <Task text='task one' />
-          <Task text='task two' />
         </View>
       </View>
 
